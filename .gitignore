@@ -1,0 +1,6 @@
+*.pkl
+*.csv
+*.feather
+*.zip
+.ipynb_checkpoints/
+.env
